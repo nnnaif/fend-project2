@@ -1,4 +1,3 @@
-
 // build the navigation menu based on the number of sections
 (function buildNav() {
     const sections = document.querySelectorAll('section');
